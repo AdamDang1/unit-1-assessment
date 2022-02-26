@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+const gitDefinition = "Git is a version control system that allows you to track/update/share your progress as you code your program/software."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+const gitHubDefinition = "GitHub is a website that allows you to store your repositories in a cloud service when programming alone or collaborating with others."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+const gitInitDefinition = "Git init is for when you initially start a new project. It initializes a new ghost repository in the same folder as your project to later be sent to GitHub."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+const gitCloneDefinition = "Git clone is when you take an already existing repository (from any developer/engineer) and make a copy to put on any directory you would like."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+const gitStatusDefinition = "Git status tells you about the status of the current repositories and whether they are ready for commit or need to be added so they can be committed and pushed up to GitHub."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,9 @@
 */
 
 //CODE HERE
+const gitAddDefinition = "Git add adds a repository to be tracked after initialization, so you have an online stored memory of your project. Git add '.' adds all repositories to be tracked and then committed.";
+
+const gitAddCode = "Git add code or 'git add .' adds all files to be staged for committing and pushed to GitHub"
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,6 +72,9 @@
 */
 
 //CODE HERE
+const gitCommitDefinition = "Git commit creates snapshot of your current project as-is and is used to compare your projects and let others (or yourself) know what you have changed and when you have changed it."
+
+const gitCommitCode = "git commit -m 'initial commit'"
 
 
 //////////////////PROBLEM 8////////////////////
@@ -73,3 +84,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = "Git push pushes all of your repositories up into the GitHub cloud service once they are initialized, added, and committed. There they can be shared with others."
